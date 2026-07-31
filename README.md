@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=RyanMiyazato&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 # Software Developer
 
 Hello, my name is Ryan and I'm a student of Software Engineering. It's my repository for show my projects.
@@ -16,3 +14,6 @@ Hello, my name is Ryan and I'm a student of Software Engineering. It's my reposi
  - Kanban
  - SDLC
 
+<h2>My Stats</h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RyanMiyazato&theme=radical&hide_border=true)](https://git.io/streak-stats)
